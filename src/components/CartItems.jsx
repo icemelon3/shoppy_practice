@@ -17,10 +17,10 @@ const itemCountChange = (e) => {
        newQuantity =  (quantity ==10) ? 10: quantity +1;
     }
     if(newQuantity == 0){
-        alert('최소 수량은 0개입니다.');
+        alert('최소 수량은 0개입니다!');
         newQuantity = 1;
     }else if(newQuantity ==10){
-        alert('최대 수량은 10개 입니다.');
+        alert('최대 수량은 10개 입니다!');
         newQuantity =10;
     }
     setQuantity(newQuantity);
