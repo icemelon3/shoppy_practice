@@ -1,0 +1,21 @@
+{
+    "userId": "USER_001",
+    "cartItems": [
+        {
+            "productId": "PRD-004",
+            "size": "S",
+            "color": "차콜",
+            "quantity": 1,
+            "price": 49000,
+            "totalPrice": 49000
+        },
+        {
+            "productId": "PRD-007",
+            "size": "30",
+            "color": "중청",
+            "quantity": 1,
+            "price": 65000,
+            "totalPrice": 65000
+        }
+    ]
+}
